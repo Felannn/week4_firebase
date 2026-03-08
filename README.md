@@ -408,7 +408,7 @@ if (pm.response.code === 200) {
 - kalian bikin request baru dengan method POST lalu masukan ENDPOINT step 4
 - Klik Send
 
-### Contoh
+### Tutorial Step by Step
 <p align="center">  
   <img width="" src="https://github.com/user-attachments/assets/a17ca1cb-4ff2-4ddc-ad12-df20b88cf770" />
   <br>
