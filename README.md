@@ -19,3 +19,15 @@
 </p>
 
 ---
+
+
+# Tutorial Authentication
+- buka tab Auhentication -> Get Started
+- pilih Email/Password
+- Centang Enable Email/Password -> Save
+
+### Contoh
+
+<p align="center">  
+  <img width="300" src="" />
+</p>
